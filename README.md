@@ -15,6 +15,7 @@ Generates great websites from Markdown files.
 
 ## Table of Contents
 
+<<<<<<< HEAD
 * [What is it](#what-is-it)
 * [Examples](#examples)
 * [Usage](#usage)
@@ -73,6 +74,33 @@ Thanks
 Authored and maintained by Rico Sta. Cruz with help from contributors ([list][contributors]).
 
 <!--{p:style='display:none'}-->
+=======
+
+## About Pythonto
+Pythonto is a user-driven website that aims to teach people different coding languages through the eyes of Python (the greatest language to have lived)
+
+The concept is simple: Python code on the left, <insert language> code on the right. Through comparison, the goal is that you will be able to learn how to code in the other language through a common frame of reference.
+  
+Contribute as much as you would like! But be sure to read the [docsify conventions](https://docsify.js.org/#/) in order to know how to contribute.
+
+Thanks, and happy coding!
+
+## Quick start
+Look at [this tutorial](https://docsify.js.org/#/quickstart) or [online demo](https://jsfiddle.net/7ztb8qsr/1/).
+
+## Contributing
+* Fork it!
+* Create your feature branch: `git checkout -b my-new-feature`
+* Commit your changes: `git commit -am 'Add some feature'`
+* Push to the branch: `git push origin my-new-feature`
+* Submit a pull request
+
+## Links
+* [Documentation](https://docsify.js.org)
+* [CLI](https://github.com/QingWei-Li/docsify-cli)
+* CDN: [UNPKG](https://unpkg.com/docsify/) | [jsDelivr](https://cdn.jsdelivr.net/npm/docsify/) | [cdnjs](https://cdnjs.com/libraries/docsify)
+* [Awesome docsify](https://github.com/QingWei-Li/awesome-docsify)
+>>>>>>> 68ff94aa73071c89faefdb29f3b716b71672270d
 
 > [ricostacruz.com](http://ricostacruz.com) &nbsp;&middot;&nbsp;
 > GitHub [@rstacruz](https://github.com/rstacruz) &nbsp;&middot;&nbsp;
