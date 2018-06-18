@@ -1,3 +1,8 @@
+<p align="center">
+  A magical documentation site generator.
+</p>
+
+
 ## About Pythonto
 Pythonto is a user-driven website that aims to teach people different coding languages through the eyes of Python (the greatest language to have lived)
 
@@ -6,6 +11,15 @@ The concept is simple: Python code on the left, <insert language> code on the ri
 Contribute as much as you would like! But be sure to read the [docsify conventions](https://docsify.js.org/#/) in order to know how to contribute.
 
 Thanks, and happy coding!
+
+## Quick start
+Look at [this tutorial](https://docsify.js.org/#/quickstart) or [online demo](https://jsfiddle.net/7ztb8qsr/1/).
+
+## Development
+
+```bash
+npm run bootstrap && npm run dev
+```
 
 ## License
 
