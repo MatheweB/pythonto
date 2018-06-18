@@ -1,3 +1,12 @@
+## About Pythonto
+Pythonto is a user-driven website that aims to teach people different coding languages through the eyes of Python (the greatest language to have lived)
+
+The concept is simple: Python code on the left, <insert language> code on the right. Through comparison, the goal is that you will be able to learn how to code in the other language through a common frame of reference.
+  
+Contribute as much as you would like! But be sure to read the [docsify conventions](https://docsify.js.org/#/) in order to know how to contribute.
+
+Thanks, and happy coding!
+
 ## License
 
 MIT
