@@ -1,617 +1,338 @@
-<a name="4.6.10"></a>
-## [4.6.10](https://github.com/QingWei-Li/docsify/compare/v4.6.9...v4.6.10) (2018-03-25)
+<a name="0.7.1"></a>
+## 0.7.1 (2016-11-01)
+
+* chore(package): update docpress-base to version 0.7.4 (#181) ([b108ca5](https://github.com/docpress/docpress/commit/b108ca5))
+* chore(package): update mocha to version 3.1.2 ([0bd1813](https://github.com/docpress/docpress/commit/0bd1813))
+* chore(package): update nyc to version 8.3.1 ([4691236](https://github.com/docpress/docpress/commit/4691236))
+* chore(package): update standard to version 8.4.0 ([e800087](https://github.com/docpress/docpress/commit/e800087))
+* showcase: tydel (#176) ([eef867e](https://github.com/docpress/docpress/commit/eef867e))
+* Add disqus docs ([e13eb3e](https://github.com/docpress/docpress/commit/e13eb3e))
+
+
 
+<a name="0.7.0"></a>
+# 0.7.0 (2016-10-01)
 
-### Bug Fixes
+* Add --help (#147) ([4c48524](https://github.com/docpress/docpress/commit/4c48524))
+* Add badge ([359c404](https://github.com/docpress/docpress/commit/359c404))
+* Add bumped ([3872fcb](https://github.com/docpress/docpress/commit/3872fcb))
+* Add editorconfig ([524527d](https://github.com/docpress/docpress/commit/524527d))
+* Add ember-watson to showcase ([b52680a](https://github.com/docpress/docpress/commit/b52680a))
+* Add hapi-decorators ([d64ff5f](https://github.com/docpress/docpress/commit/d64ff5f))
+* Add json2csv ([80daaa2](https://github.com/docpress/docpress/commit/80daaa2))
+* Add link to showcase page ([8dee653](https://github.com/docpress/docpress/commit/8dee653))
+* Add missing dep ([bec9cec](https://github.com/docpress/docpress/commit/bec9cec))
+* Add moar sites ([e2fe679](https://github.com/docpress/docpress/commit/e2fe679))
+* Create CONTRIBUTING.md ([4ac55e4](https://github.com/docpress/docpress/commit/4ac55e4))
+* Create showcase.md ([ec17049](https://github.com/docpress/docpress/commit/ec17049))
+* Document scripts (#127) ([18ed71a](https://github.com/docpress/docpress/commit/18ed71a))
+* Rebuild scripts ([045e93c](https://github.com/docpress/docpress/commit/045e93c))
+* Remove docpress-search and references (#125) ([a45b69c](https://github.com/docpress/docpress/commit/a45b69c))
+* Remove TIL deps ([bde82bf](https://github.com/docpress/docpress/commit/bde82bf))
+* Remove unnecessary test ([eca8e5d](https://github.com/docpress/docpress/commit/eca8e5d))
+* Sort list ([8648623](https://github.com/docpress/docpress/commit/8648623))
+* TIL deps ([9f7ec38](https://github.com/docpress/docpress/commit/9f7ec38))
+* Update dep ([1408473](https://github.com/docpress/docpress/commit/1408473))
+* Update deps ([951cf7d](https://github.com/docpress/docpress/commit/951cf7d))
+* Update deps ([d0425ca](https://github.com/docpress/docpress/commit/d0425ca))
+* Update devDeps ([c6adbb9](https://github.com/docpress/docpress/commit/c6adbb9))
+* chore(package): update mocha to version 3.0.2 (#123) ([11d1c5f](https://github.com/docpress/docpress/commit/11d1c5f))
+* chore(package): update standard to version 8.1.0 ([bc7ade9](https://github.com/docpress/docpress/commit/bc7ade9))
+* chore(package): update uglifyify to version 3.0.3 (#151) ([1ae30a8](https://github.com/docpress/docpress/commit/1ae30a8))
+* Showcase: add descriptions ([9a17109](https://github.com/docpress/docpress/commit/9a17109))
+* Showcase: split into sections ([ad13a6f](https://github.com/docpress/docpress/commit/ad13a6f))
+* Readme: add link to Gitter ([1b9b0ed](https://github.com/docpress/docpress/commit/1b9b0ed))
+* Readme: link to the showcase ([9c9a6c9](https://github.com/docpress/docpress/commit/9c9a6c9))
 
-* async install config, fixed [#425](https://github.com/QingWei-Li/docsify/issues/425) ([e4e011c](https://github.com/QingWei-Li/docsify/commit/e4e011c))
 
 
+<a name="0.6.13"></a>
+## 0.6.13 (2016-08-02)
 
-<a name="4.6.9"></a>
-## [4.6.9](https://github.com/QingWei-Li/docsify/compare/v4.6.8...v4.6.9) (2018-03-10)
+* Add `dist` config, fix `css` ([a95ec60](https://github.com/docpress/docpress/commit/a95ec60))
+* Release v0.6.13 ([8dcf17e](https://github.com/docpress/docpress/commit/8dcf17e))
+* chore(package): update expect to version 1.20.2 ([7bf4f26](https://github.com/docpress/docpress/commit/7bf4f26))
+* chore(package): update mocha to version 3.0.0 ([398e612](https://github.com/docpress/docpress/commit/398e612))
+* chore(package): update yargs to version 4.8.1 ([e9a4949](https://github.com/docpress/docpress/commit/e9a4949))
 
 
-### Bug Fixes
 
-* upgrade medium-zoom, fixed [#417](https://github.com/QingWei-Li/docsify/issues/417) ([6a3d69a](https://github.com/QingWei-Li/docsify/commit/6a3d69a))
+<a name="0.6.12"></a>
+## 0.6.12 (2016-06-20)
 
+* Add moar node builds for testing ([5cf8cb1](https://github.com/docpress/docpress/commit/5cf8cb1))
+* Prevent const reassign ([9e41d15](https://github.com/docpress/docpress/commit/9e41d15))
+* Release v0.6.12 ([0dc1072](https://github.com/docpress/docpress/commit/0dc1072))
+* chore(package): update eslint to version 2.0.0 ([02573c2](https://github.com/docpress/docpress/commit/02573c2))
+* chore(package): update eslint-config-standard to version 5.2.0 ([e2891d9](https://github.com/docpress/docpress/commit/e2891d9))
+* chore(package): update expect to version 1.15.2 ([aed2045](https://github.com/docpress/docpress/commit/aed2045))
+* chore(package): update expect to version 1.16.0 ([86a28b3](https://github.com/docpress/docpress/commit/86a28b3))
+* chore(package): update standard to version 6.0.4 ([49b4764](https://github.com/docpress/docpress/commit/49b4764))
+* chore(package): update standard to version 6.0.8 ([6a03305](https://github.com/docpress/docpress/commit/6a03305))
+* chore(package): update yargs to version 4.3.1 ([ab72b1a](https://github.com/docpress/docpress/commit/ab72b1a))
 
 
-<a name="4.6.8"></a>
-## [4.6.8](https://github.com/QingWei-Li/docsify/compare/v4.6.7...v4.6.8) (2018-03-06)
 
+<a name="0.6.11"></a>
+## 0.6.11 (2016-02-03)
 
-### Bug Fixes
+* Fix lint ([9802390](https://github.com/docpress/docpress/commit/9802390))
+* Release v0.6.11 ([6a8c339](https://github.com/docpress/docpress/commit/6a8c339))
+* Update docpress-core ([cd67e11](https://github.com/docpress/docpress/commit/cd67e11))
+* Update gh-pages docs to account for non-js projects ([923d14f](https://github.com/docpress/docpress/commit/923d14f))
+* Update nvm install command ([4679b89](https://github.com/docpress/docpress/commit/4679b89))
+* chore(package): update browserify to version 13.0.0 ([e0e65f6](https://github.com/docpress/docpress/commit/e0e65f6))
+* chore(package): update expect to version 1.13.3 ([f7161db](https://github.com/docpress/docpress/commit/f7161db))
+* chore(package): update expect to version 1.14.0 ([77c2466](https://github.com/docpress/docpress/commit/77c2466))
+* chore(package): update markdown-it-decorate to version 1.2.1 ([567c32f](https://github.com/docpress/docpress/commit/567c32f))
+* chore(package): update metalsmith-start to version 2.0.0 ([464f238](https://github.com/docpress/docpress/commit/464f238))
+* chore(package): update metalsmith-start to version 2.0.1 ([79e71f8](https://github.com/docpress/docpress/commit/79e71f8))
+* chore(package): update mocha to version 2.4.2 ([f92e1c4](https://github.com/docpress/docpress/commit/f92e1c4))
+* chore(package): update nixt to version 0.5.0 ([69ea4f5](https://github.com/docpress/docpress/commit/69ea4f5))
+* chore(package): update yargs to version 3.32.0 ([0f8d2b6](https://github.com/docpress/docpress/commit/0f8d2b6))
 
-* resolve path of image and embed files, fixed [#412](https://github.com/QingWei-Li/docsify/issues/412) ([bfd0d18](https://github.com/QingWei-Li/docsify/commit/bfd0d18))
 
 
+<a name="0.6.10"></a>
+## 0.6.10 (2015-12-10)
 
-<a name="4.6.7"></a>
-## [4.6.7](https://github.com/QingWei-Li/docsify/compare/v4.6.6...v4.6.7) (2018-03-03)
+* Release v0.6.10 ([f3ee1d0](https://github.com/docpress/docpress/commit/f3ee1d0))
+* chore(package): update docpress-base to version 0.6.10 ([6d98d44](https://github.com/docpress/docpress/commit/6d98d44))
 
 
-### Bug Fixes
 
-* layout css, fixed [#409](https://github.com/QingWei-Li/docsify/issues/409) ([aeb692e](https://github.com/QingWei-Li/docsify/commit/aeb692e))
+<a name="0.6.9"></a>
+## 0.6.9 (2015-12-06)
 
+* Attempt to fix Windows bin delegation problem ([14dd188](https://github.com/docpress/docpress/commit/14dd188))
+* Release v0.6.9 ([e93c570](https://github.com/docpress/docpress/commit/e93c570))
 
 
-<a name="4.6.6"></a>
-## [4.6.6](https://github.com/QingWei-Li/docsify/compare/v4.6.5...v4.6.6) (2018-03-03)
 
+<a name="0.6.8"></a>
+## 0.6.8 (2015-12-04)
 
+* Delegate to node.js properly (#3) ([6792734](https://github.com/docpress/docpress/commit/6792734))
+* Release v0.6.8 ([cabfe5e](https://github.com/docpress/docpress/commit/cabfe5e))
+* chore(package): update dependencies ([cb2db3a](https://github.com/docpress/docpress/commit/cb2db3a))
+* chore(package): update yargs to version 3.30.0 ([418652d](https://github.com/docpress/docpress/commit/418652d))
 
-<a name="4.6.5"></a>
-## [4.6.5](https://github.com/QingWei-Li/docsify/compare/v4.6.4...v4.6.5) (2018-03-03)
 
 
-### Bug Fixes
+<a name="0.6.7"></a>
+## 0.6.7 (2015-12-03)
 
-* **navbar:** Now Navbar isn't append to DOM when loadNavbar is falsy ([#407](https://github.com/QingWei-Li/docsify/issues/407)) ([0933445](https://github.com/QingWei-Li/docsify/commit/0933445))
+* Release v0.6.7 ([6c1ee90](https://github.com/docpress/docpress/commit/6c1ee90))
+* Throw errors when delegate_bin fails (#3) ([83ba081](https://github.com/docpress/docpress/commit/83ba081))
 
 
-### Features
 
-* **config:** Add 404 page options. ([#406](https://github.com/QingWei-Li/docsify/issues/406)) ([9b3b445](https://github.com/QingWei-Li/docsify/commit/9b3b445))
+<a name="0.6.6"></a>
+## 0.6.6 (2015-11-26)
 
+* Release v0.6.6 ([559582e](https://github.com/docpress/docpress/commit/559582e))
 
 
-<a name="4.6.4"></a>
-## [4.6.4](https://github.com/QingWei-Li/docsify/compare/v4.6.3...v4.6.4) (2018-03-01)
 
+<a name="0.6.4"></a>
+## 0.6.4 (2015-11-26)
 
-### Bug Fixes
+* Release v0.6.4 ([30ab656](https://github.com/docpress/docpress/commit/30ab656))
 
-* **render:** Disable markdown parsing when the file is an HTML ([#403](https://github.com/QingWei-Li/docsify/issues/403)) ([278a75e](https://github.com/QingWei-Li/docsify/commit/278a75e))
 
 
-### Features
+<a name="0.6.3"></a>
+## 0.6.3 (2015-11-12)
 
-* **fetch:** Add fallback languages configuration. ([#402](https://github.com/QingWei-Li/docsify/issues/402)) ([ecc0e04](https://github.com/QingWei-Li/docsify/commit/ecc0e04))
+* Release v0.6.3 ([cbb6e11](https://github.com/docpress/docpress/commit/cbb6e11))
+* Docs: add Google Analytics ([2503519](https://github.com/docpress/docpress/commit/2503519))
 
 
 
-<a name="4.6.3"></a>
-## [4.6.3](https://github.com/QingWei-Li/docsify/compare/v4.6.2...v4.6.3) (2018-02-15)
+<a name="0.6.2"></a>
+## 0.6.2 (2015-11-12)
 
+* Document Google Analytics tracking ([a4d123a](https://github.com/docpress/docpress/commit/a4d123a))
+* Release v0.6.2 ([35bfcd9](https://github.com/docpress/docpress/commit/35bfcd9))
 
-### Bug Fixes
 
-* **hook:** beforeEach don\'t work, fixed [#393](https://github.com/QingWei-Li/docsify/issues/393) ([6a09059](https://github.com/QingWei-Li/docsify/commit/6a09059))
 
+<a name="0.6.1"></a>
+## 0.6.1 (2015-10-20)
 
+* Release v0.6.1 ([b6174c2](https://github.com/docpress/docpress/commit/b6174c2))
 
-<a name="4.6.2"></a>
-## [4.6.2](https://github.com/QingWei-Li/docsify/compare/v4.6.1...v4.6.2) (2018-02-14)
 
 
-### Bug Fixes
+<a name="0.6.0"></a>
+# 0.6.0 (2015-10-20)
 
-* **embed:** broken in IE, fixed [#389](https://github.com/QingWei-Li/docsify/issues/389), fixed [#391](https://github.com/QingWei-Li/docsify/issues/391) ([45a7464](https://github.com/QingWei-Li/docsify/commit/45a7464))
-* **embed:** init value ([890a7bf](https://github.com/QingWei-Li/docsify/commit/890a7bf))
+* Add browserify as test dependencies ([440edfa](https://github.com/docpress/docpress/commit/440edfa))
+* Bump dependencies ([9606ac4](https://github.com/docpress/docpress/commit/9606ac4))
+* Fix executable not terminating ([99d7ec9](https://github.com/docpress/docpress/commit/99d7ec9))
+* Release v0.6.0 ([cfe1eca](https://github.com/docpress/docpress/commit/cfe1eca))
+* Update docs ([22ed25c](https://github.com/docpress/docpress/commit/22ed25c))
+* Update docs ([fa1da87](https://github.com/docpress/docpress/commit/fa1da87))
 
 
 
-<a name="4.6.1"></a>
+<a name="0.5.6"></a>
+## 0.5.6 (2015-10-15)
 
-## [4.6.1](https://github.com/QingWei-Li/docsify/compare/v4.6.0...v4.6.1) (2018-02-12)
+* Release v0.5.6 ([82b08cc](https://github.com/docpress/docpress/commit/82b08cc))
+* Update metalsmith and yargs ([d8379f8](https://github.com/docpress/docpress/commit/d8379f8))
 
-### Bug Fixes
 
-* **embed** compatible ssr ([dc0c3ce](https://github.com/QingWei-Li/docsify/commit/dc0c3ce))
-* **embed** async fetch embed files, fixed [#387](https://github.com/QingWei-Li/docsify/issues/387)
 
-<a name="4.6.0"></a>
+<a name="0.5.5"></a>
+## 0.5.5 (2015-10-15)
 
-# [4.6.0](https://github.com/QingWei-Li/docsify/compare/v4.5.9...v4.6.0) (2018-02-11)
+* Document markdown settings ([881b577](https://github.com/docpress/docpress/commit/881b577))
+* Don't build from latest docpress ([67e856b](https://github.com/docpress/docpress/commit/67e856b))
+* Increase test timeouts ([a9492ed](https://github.com/docpress/docpress/commit/a9492ed))
+* Release v0.5.5 ([a757a4e](https://github.com/docpress/docpress/commit/a757a4e))
+* Update executable test ([174beb1](https://github.com/docpress/docpress/commit/174beb1))
 
-### Bug Fixes
 
-* **search:** custom clear button, fixed [#271](https://github.com/QingWei-Li/docsify/issues/271) ([864aa18](https://github.com/QingWei-Li/docsify/commit/864aa18))
-* **search:** escape special characters for search, fixed [#369](https://github.com/QingWei-Li/docsify/issues/369) ([9755439](https://github.com/QingWei-Li/docsify/commit/9755439))
-* build config ([342438f](https://github.com/QingWei-Li/docsify/commit/342438f))
-* button style for coverpage, fixed [#362](https://github.com/QingWei-Li/docsify/issues/362) ([85428ef](https://github.com/QingWei-Li/docsify/commit/85428ef))
-* dropdown scroll style, fixed [#346](https://github.com/QingWei-Li/docsify/issues/346) ([c4d83f2](https://github.com/QingWei-Li/docsify/commit/c4d83f2))
-* highlight homepage link, fixed [#304](https://github.com/QingWei-Li/docsify/issues/304) ([f960c19](https://github.com/QingWei-Li/docsify/commit/f960c19))
-* homepage link ([e097f88](https://github.com/QingWei-Li/docsify/commit/e097f88))
-* onlyCover ([033be4f](https://github.com/QingWei-Li/docsify/commit/033be4f))
-* ssr compatible embedd ([ebc10c4](https://github.com/QingWei-Li/docsify/commit/ebc10c4))
-* ssr coverpage, fixed [#273](https://github.com/QingWei-Li/docsify/issues/273) ([9e824a4](https://github.com/QingWei-Li/docsify/commit/9e824a4))
 
-### Features
+<a name="0.5.4"></a>
+## 0.5.4 (2015-10-15)
 
-* click sidebar menu add collapse and expand, close [#294](https://github.com/QingWei-Li/docsify/issues/294) ([5e161a1](https://github.com/QingWei-Li/docsify/commit/5e161a1))
-* **compiler:** support embedded file as code block, close [#134](https://github.com/QingWei-Li/docsify/issues/134) ([761ccc2](https://github.com/QingWei-Li/docsify/commit/761ccc2))
-* **compiler:** support embedded markdown, html, video, etc files, close [#383](https://github.com/QingWei-Li/docsify/issues/383), close [#333](https://github.com/QingWei-Li/docsify/issues/333) ([524f52f](https://github.com/QingWei-Li/docsify/commit/524f52f))
-* **cover:** add onlyCover option, close [#382](https://github.com/QingWei-Li/docsify/issues/382) ([b265fdd](https://github.com/QingWei-Li/docsify/commit/b265fdd))
-* **fetch:** add requestHeaders option, fixed [#336](https://github.com/QingWei-Li/docsify/issues/336) ([54ab4c9](https://github.com/QingWei-Li/docsify/commit/54ab4c9))
-* **render:** add ext option for custom file extenstion, close [#340](https://github.com/QingWei-Li/docsify/issues/340) ([248aa72](https://github.com/QingWei-Li/docsify/commit/248aa72))
-* **render:** mutilple coverpage, close [#315](https://github.com/QingWei-Li/docsify/issues/315) ([f68ddf5](https://github.com/QingWei-Li/docsify/commit/f68ddf5))
+* Release v0.5.4 ([b56640d](https://github.com/docpress/docpress/commit/b56640d))
 
-<a name="4.5.9"></a>
 
-## [4.5.9](https://github.com/QingWei-Li/docsify/compare/v4.5.8...v4.5.9) (2018-02-07)
 
-### Bug Fixes
+<a name="0.5.2"></a>
+## 0.5.2 (2015-10-15)
 
-* upgrade marked ([4157173](https://github.com/QingWei-Li/docsify/commit/4157173))
+* Release v0.5.2 ([358939a](https://github.com/docpress/docpress/commit/358939a))
 
-<a name="4.5.8"></a>
 
-## [4.5.8](https://github.com/QingWei-Li/docsify/compare/v4.5.6...v4.5.8) (2018-02-07)
 
-### Bug Fixes
+<a name="0.5.1"></a>
+## 0.5.1 (2015-10-15)
 
-* cover style, fixed [#381](https://github.com/QingWei-Li/docsify/issues/381) ([368754e](https://github.com/QingWei-Li/docsify/commit/368754e))
-* updated deps ([#337](https://github.com/QingWei-Li/docsify/issues/337)) ([a12d393](https://github.com/QingWei-Li/docsify/commit/a12d393))
+* Release v0.5.1 ([a95ba59](https://github.com/docpress/docpress/commit/a95ba59))
 
-<a name="4.5.7"></a>
 
-## [4.5.7](https://github.com/QingWei-Li/docsify/compare/v4.5.6...v4.5.7) (2017-12-29)
 
-### Features
+<a name="0.5.0"></a>
+# 0.5.0 (2015-10-15)
 
-* add navigation plugin, closed [#180](https://github.com/QingWei-Li/docsify/issues/180) ([f78be4c](https://github.com/QingWei-Li/docsify/commit/f78be4c))
+* Release v0.5.0 ([455a14b](https://github.com/docpress/docpress/commit/455a14b))
+* Update CSS docs ([f3c09bf](https://github.com/docpress/docpress/commit/f3c09bf))
+* Update docs for 0.5 ([2fe66f1](https://github.com/docpress/docpress/commit/2fe66f1))
 
-<a name="4.5.6"></a>
 
-## [4.5.6](https://github.com/QingWei-Li/docsify/compare/v4.5.3...v4.5.6) (2017-12-14)
 
-### Bug Fixes
+<a name="0.4.3"></a>
+## 0.4.3 (2015-10-15)
 
-* **style:** increase the tap targets of menu button, fixed [#325](https://github.com/QingWei-Li/docsify/issues/325) ([888f217](https://github.com/QingWei-Li/docsify/commit/888f217))
+* Release v0.4.3 ([2149a79](https://github.com/docpress/docpress/commit/2149a79))
 
-<a name="4.5.5"></a>
 
-## [4.5.5](https://github.com/QingWei-Li/docsify/compare/v4.5.4...v4.5.5) (2017-11-30)
 
-### Bug Fixes
+<a name="0.4.2"></a>
+## 0.4.2 (2015-10-15)
 
-* disqus plugin issue ([#318](https://github.com/QingWei-Li/docsify/issues/318)) ([041b33e](https://github.com/QingWei-Li/docsify/commit/041b33e)), closes [#317](https://github.com/QingWei-Li/docsify/issues/317)
+* Release v0.4.2 ([92b88be](https://github.com/docpress/docpress/commit/92b88be))
 
-<a name="4.5.4"></a>
 
-## [4.5.4](https://github.com/QingWei-Li/docsify/compare/v4.5.2...v4.5.4) (2017-11-29)
 
-### Bug Fixes
+<a name="0.4.1"></a>
+## 0.4.1 (2015-10-15)
 
-* **compiler:** task lists style, fixed [#215](https://github.com/QingWei-Li/docsify/issues/215) ([e43ded4](https://github.com/QingWei-Li/docsify/commit/e43ded4))
+* Release v0.4.1 ([caeb43a](https://github.com/docpress/docpress/commit/caeb43a))
+* Update documentation ([d6fac94](https://github.com/docpress/docpress/commit/d6fac94))
 
-### Features
 
-* add gitalk plugin ([#306](https://github.com/QingWei-Li/docsify/issues/306)) ([9208e64](https://github.com/QingWei-Li/docsify/commit/9208e64))
 
-<a name="4.5.3"></a>
+<a name="0.4.0"></a>
+# 0.4.0 (2015-10-15)
 
-## [4.5.3](https://github.com/QingWei-Li/docsify/compare/v4.5.2...v4.5.3) (2017-11-11)
+* Add more article stubs ([00b2cf4](https://github.com/docpress/docpress/commit/00b2cf4))
+* Experimental change to update runner look ([57054a7](https://github.com/docpress/docpress/commit/57054a7))
+* Release v0.4.0 ([42c0e96](https://github.com/docpress/docpress/commit/42c0e96))
+* Update docs ([2df6def](https://github.com/docpress/docpress/commit/2df6def))
+* Update plugins config ([207028e](https://github.com/docpress/docpress/commit/207028e))
+* Update styles ([a52ec33](https://github.com/docpress/docpress/commit/a52ec33))
+* Update tagline ([e0550c8](https://github.com/docpress/docpress/commit/e0550c8))
 
-### Features
 
-* add gitalk plugin ([#306](https://github.com/QingWei-Li/docsify/issues/306)) ([9208e64](https://github.com/QingWei-Li/docsify/commit/9208e64))
 
-<a name="4.5.2"></a>
+<a name="0.3.4"></a>
+## 0.3.4 (2015-10-14)
 
-## [4.5.2](https://github.com/QingWei-Li/docsify/compare/v4.5.1...v4.5.2) (2017-11-09)
+* Release v0.3.4 ([54ff709](https://github.com/docpress/docpress/commit/54ff709))
 
-### Features
 
-* github task lists, close [#215](https://github.com/QingWei-Li/docsify/issues/215) ([#305](https://github.com/QingWei-Li/docsify/issues/305)) ([d486eef](https://github.com/QingWei-Li/docsify/commit/d486eef))
 
-<a name="4.5.1"></a>
+<a name="0.3.3"></a>
+## 0.3.3 (2015-10-14)
 
-## [4.5.1](https://github.com/QingWei-Li/docsify/compare/v4.5.0...v4.5.1) (2017-11-07)
+* Add documentation stub for plugins ([4b282e6](https://github.com/docpress/docpress/commit/4b282e6))
+* Experiment with plugins ([e48d86a](https://github.com/docpress/docpress/commit/e48d86a))
+* Hmm ([bb8634d](https://github.com/docpress/docpress/commit/bb8634d))
+* Release v0.3.3 ([e2de586](https://github.com/docpress/docpress/commit/e2de586))
+* Update decorate ([879be1a](https://github.com/docpress/docpress/commit/879be1a))
+* Update documentation ([25954f3](https://github.com/docpress/docpress/commit/25954f3))
 
-### Features
 
-* fetch files with the query params, fixed [#303](https://github.com/QingWei-Li/docsify/issues/303) ([2a2ed96](https://github.com/QingWei-Li/docsify/commit/2a2ed96))
 
-<a name="4.5.0"></a>
+<a name="0.3.2"></a>
+## 0.3.2 (2015-10-13)
 
-# [4.5.0](https://github.com/QingWei-Li/docsify/compare/v4.4.1...v4.5.0) (2017-11-04)
+* Release v0.3.2 ([053d30c](https://github.com/docpress/docpress/commit/053d30c))
 
-### Features
 
-* add disqus plugin, closed [#123](https://github.com/QingWei-Li/docsify/issues/123) ([fd7d4e0](https://github.com/QingWei-Li/docsify/commit/fd7d4e0))
 
-<a name="4.4.1"></a>
+<a name="0.3.1"></a>
+## 0.3.1 (2015-10-13)
 
-## [4.4.1](https://github.com/QingWei-Li/docsify/compare/v4.4.0...v4.4.1) (2017-10-31)
+* Create a deploy script ([0d3e34f](https://github.com/docpress/docpress/commit/0d3e34f))
+* Release v0.3.1 ([f38af5d](https://github.com/docpress/docpress/commit/f38af5d))
 
-### Bug Fixes
 
-* {docsify-ignore-all} and {docsify-ignore} bug ([#299](https://github.com/QingWei-Li/docsify/issues/299)) ([cc98f56](https://github.com/QingWei-Li/docsify/commit/cc98f56))
-* zoom image plugin issue, fixed [#187](https://github.com/QingWei-Li/docsify/issues/187) ([#300](https://github.com/QingWei-Li/docsify/issues/300)) ([fa772cf](https://github.com/QingWei-Li/docsify/commit/fa772cf))
 
-<a name="4.4.0"></a>
+<a name="0.2.0"></a>
+# 0.2.0 (2015-10-11)
 
-# [4.4.0](https://github.com/QingWei-Li/docsify/compare/v4.3.15...v4.4.0) (2017-10-30)
+* Build docs on Travis ([6fd04a1](https://github.com/docpress/docpress/commit/6fd04a1))
+* Build docs on Travis, for real ([dadb7ab](https://github.com/docpress/docpress/commit/dadb7ab))
+* Cache node_modules ([35bb64e](https://github.com/docpress/docpress/commit/35bb64e))
+* Delegate to local installation when available ([cbea500](https://github.com/docpress/docpress/commit/cbea500))
+* Enable Travis ([576c939](https://github.com/docpress/docpress/commit/576c939))
+* Fix executable test ([c146e65](https://github.com/docpress/docpress/commit/c146e65))
+* Release v0.2.0 ([c1ec626](https://github.com/docpress/docpress/commit/c1ec626))
+* Test using latest plugin release, build using master ([4b61495](https://github.com/docpress/docpress/commit/4b61495))
+* Test using latest plugins ([d5a2ef0](https://github.com/docpress/docpress/commit/d5a2ef0))
+* Update docs ([a6b077c](https://github.com/docpress/docpress/commit/a6b077c))
+* Update docs ([e003422](https://github.com/docpress/docpress/commit/e003422))
+* Update docs ([ad6d154](https://github.com/docpress/docpress/commit/ad6d154))
+* Update docs ([0af6d21](https://github.com/docpress/docpress/commit/0af6d21))
+* Update docs ([3b6fe11](https://github.com/docpress/docpress/commit/3b6fe11))
+* Update documentation ([812684f](https://github.com/docpress/docpress/commit/812684f))
+* Update site, for reals ([56fee22](https://github.com/docpress/docpress/commit/56fee22))
 
-### Bug Fixes
 
-* sidebar style issue on firefox, fixed [#184](https://github.com/QingWei-Li/docsify/issues/184) ([#297](https://github.com/QingWei-Li/docsify/issues/297)) ([36bfc9d](https://github.com/QingWei-Li/docsify/commit/36bfc9d))
 
-### Features
+<a name="0.1.0"></a>
+# 0.1.0 (2015-10-11)
 
-* add helper for disabled link, fixed [#295](https://github.com/QingWei-Li/docsify/issues/295) ([#296](https://github.com/QingWei-Li/docsify/issues/296)) ([4ad96f3](https://github.com/QingWei-Li/docsify/commit/4ad96f3))
+* Add mocha tests ([54aabee](https://github.com/docpress/docpress/commit/54aabee))
+* Add nixt test ([d4acf4a](https://github.com/docpress/docpress/commit/d4acf4a))
+* Add tests ([33cdba5](https://github.com/docpress/docpress/commit/33cdba5))
+* Allow custom plugins ([ab34220](https://github.com/docpress/docpress/commit/ab34220))
+* Allow custom ports ([5810a24](https://github.com/docpress/docpress/commit/5810a24))
+* Default to development ([d5d8475](https://github.com/docpress/docpress/commit/d5d8475))
+* Initial commit ([7924226](https://github.com/docpress/docpress/commit/7924226))
+* Refactor bin ([527ecf3](https://github.com/docpress/docpress/commit/527ecf3))
+* Release v0.1.0 ([a8fc0fa](https://github.com/docpress/docpress/commit/a8fc0fa))
+* Update metalsmith-start to 1.1.0 ([757a0b7](https://github.com/docpress/docpress/commit/757a0b7))
+* Update package.json ([9ebd901](https://github.com/docpress/docpress/commit/9ebd901))
+* Update readme ([e44bdef](https://github.com/docpress/docpress/commit/e44bdef))
+* Update readme ([e3ccee7](https://github.com/docpress/docpress/commit/e3ccee7))
+* Update readme ([f44312b](https://github.com/docpress/docpress/commit/f44312b))
 
-<a name="4.3.15"></a>
 
-## [4.3.15](https://github.com/QingWei-Li/docsify/compare/v4.3.14...v4.3.15) (2017-10-20)
 
-### Bug Fixes
-
-* scroll active sidebar ([a2b8eae](https://github.com/QingWei-Li/docsify/commit/a2b8eae))
-
-<a name="4.3.14"></a>
-
-## [4.3.14](https://github.com/QingWei-Li/docsify/compare/v4.3.13...v4.3.14) (2017-10-20)
-
-### Bug Fixes
-
-* codesponsor style ([ab68268](https://github.com/QingWei-Li/docsify/commit/ab68268))
-
-<a name="4.3.13"></a>
-
-## [4.3.13](https://github.com/QingWei-Li/docsify/compare/v4.3.12...v4.3.13) (2017-10-17)
-
-### Bug Fixes
-
-* duplicate results in search fixed [#257](https://github.com/QingWei-Li/docsify/issues/257) ([#284](https://github.com/QingWei-Li/docsify/issues/284)) ([3476f6f](https://github.com/QingWei-Li/docsify/commit/3476f6f))
-
-### Features
-
-* make whole search result clickable ([#285](https://github.com/QingWei-Li/docsify/issues/285)) ([1b91227](https://github.com/QingWei-Li/docsify/commit/1b91227))
-
-<a name="4.3.12"></a>
-
-## [4.3.12](https://github.com/QingWei-Li/docsify/compare/v4.3.11...v4.3.12) (2017-10-15)
-
-### Bug Fixes
-
-* incorrect active link ([#281](https://github.com/QingWei-Li/docsify/issues/281)) ([a3ab379](https://github.com/QingWei-Li/docsify/commit/a3ab379))
-
-<a name="4.3.11"></a>
-
-## [4.3.11](https://github.com/QingWei-Li/docsify/compare/v4.3.10...v4.3.11) (2017-10-15)
-
-### Bug Fixes
-
-* broken links to same page heading, fix [#278](https://github.com/QingWei-Li/docsify/issues/278), fix [#279](https://github.com/QingWei-Li/docsify/issues/279) ([91d6337](https://github.com/QingWei-Li/docsify/commit/91d6337))
-
-<a name="4.3.10"></a>
-
-## [4.3.10](https://github.com/QingWei-Li/docsify/compare/v4.3.9...v4.3.10) (2017-10-12)
-
-### Bug Fixes
-
-* link render issue after page refreshing ([#276](https://github.com/QingWei-Li/docsify/issues/276)) ([abd885e](https://github.com/QingWei-Li/docsify/commit/abd885e))
-
-<a name="4.3.9"></a>
-
-## [4.3.9](https://github.com/QingWei-Li/docsify/compare/v4.3.8...v4.3.9) (2017-10-11)
-
-### Bug Fixes
-
-* scroll issue in IE ([#275](https://github.com/QingWei-Li/docsify/issues/275)) ([3e94cb6](https://github.com/QingWei-Li/docsify/commit/3e94cb6))
-
-<a name="4.3.8"></a>
-
-## [4.3.8](https://github.com/QingWei-Li/docsify/compare/v4.3.7...v4.3.8) (2017-10-07)
-
-### Bug Fixes
-
-* **slugify:** GitHub compatible heading links, fixed [#272](https://github.com/QingWei-Li/docsify/issues/272) ([9b4e666](https://github.com/QingWei-Li/docsify/commit/9b4e666))
-
-<a name="4.3.7"></a>
-
-## [4.3.7](https://github.com/QingWei-Li/docsify/compare/v4.3.6...v4.3.7) (2017-10-02)
-
-### Bug Fixes
-
-* **slugify:** GitHub compatible heading links, fixed [#267](https://github.com/QingWei-Li/docsify/issues/267) ([c195d2d](https://github.com/QingWei-Li/docsify/commit/c195d2d))
-
-<a name="4.3.6"></a>
-
-## [4.3.6](https://github.com/QingWei-Li/docsify/compare/v4.3.5...v4.3.6) (2017-09-21)
-
-### Bug Fixes
-
-* style for codesponsor plugin ([08afec7](https://github.com/QingWei-Li/docsify/commit/08afec7))
-
-<a name="4.3.5"></a>
-
-## [4.3.5](https://github.com/QingWei-Li/docsify/compare/v4.3.4...v4.3.5) (2017-09-20)
-
-### Bug Fixes
-
-* missed symbol ([#254](https://github.com/QingWei-Li/docsify/issues/254)) ([6c702d3](https://github.com/QingWei-Li/docsify/commit/6c702d3))
-
-### Features
-
-* **plugin:** add codesponsor plugin ([46ac4c3](https://github.com/QingWei-Li/docsify/commit/46ac4c3))
-
-<a name="4.3.4"></a>
-
-## [4.3.4](https://github.com/QingWei-Li/docsify/compare/v4.3.3...v4.3.4) (2017-09-07)
-
-### Bug Fixes
-
-* scroll position issue, fixed [#234](https://github.com/QingWei-Li/docsify/issues/234) ([388ed3d](https://github.com/QingWei-Li/docsify/commit/388ed3d))
-
-<a name="4.3.3"></a>
-
-## [4.3.3](https://github.com/QingWei-Li/docsify/compare/v4.3.2...v4.3.3) (2017-09-06)
-
-### Bug Fixes
-
-* **buble.css:** tweaks code block style, fixed [#249](https://github.com/QingWei-Li/docsify/issues/249) ([9d43051](https://github.com/QingWei-Li/docsify/commit/9d43051))
-
-### Features
-
-* add doc for react and vue demo box plugin ([#247](https://github.com/QingWei-Li/docsify/issues/247)) ([f0aca19](https://github.com/QingWei-Li/docsify/commit/f0aca19))
-
-<a name="4.3.2"></a>
-
-## [4.3.2](https://github.com/QingWei-Li/docsify/compare/v4.3.1...v4.3.2) (2017-09-01)
-
-### Bug Fixes
-
-* sidebar highlight ([f82f419](https://github.com/QingWei-Li/docsify/commit/f82f419))
-
-### Features
-
-* add Edit on github plugin (thanks [@njleonzhang](https://github.com/njleonzhang)) ([a0e1ea8](https://github.com/QingWei-Li/docsify/commit/a0e1ea8))
-
-<a name="4.3.1"></a>
-
-## [4.3.1](https://github.com/QingWei-Li/docsify/compare/v4.2.9...v4.3.1) (2017-08-30)
-
-### Features
-
-* **markdown:** supports mermaid [#137](https://github.com/QingWei-Li/docsify/issues/137) ([f4800e0](https://github.com/QingWei-Li/docsify/commit/f4800e0))
-
-<a name="4.3.0"></a>
-
-# [4.3.0](https://github.com/QingWei-Li/docsify/compare/v4.2.9...v4.3.0) (2017-08-17)
-
-### Features
-
-* **markdown:** supports mermaid [#137](https://github.com/QingWei-Li/docsify/issues/137) ([f4800e0](https://github.com/QingWei-Li/docsify/commit/f4800e0))
-
-<a name="4.2.9"></a>
-
-## [4.2.9](https://github.com/QingWei-Li/docsify/compare/v4.2.8...v4.2.9) (2017-08-15)
-
-### Bug Fixes
-
-* ensure document ready before init Docsify [#233](https://github.com/QingWei-Li/docsify/issues/233)
-
-<a name="4.2.8"></a>
-
-## [4.2.8](https://github.com/QingWei-Li/docsify/compare/v4.2.7...v4.2.8) (2017-08-10)
-
-### Features
-
-* **compiler:** support for setting target attribute for link, fixed [#230](https://github.com/QingWei-Li/docsify/issues/230) ([7f270f9](https://github.com/QingWei-Li/docsify/commit/7f270f9))
-
-<a name="4.2.7"></a>
-
-## [4.2.7](https://github.com/QingWei-Li/docsify/compare/v4.2.4...v4.2.7) (2017-08-05)
-
-### Bug Fixes
-
-* **release:** release shell ([628e211](https://github.com/QingWei-Li/docsify/commit/628e211))
-* **style:** nowrap => pre-wrap, fixed [#228](https://github.com/QingWei-Li/docsify/issues/228) ([a88252c](https://github.com/QingWei-Li/docsify/commit/a88252c))
-
-<a name="4.2.6"></a>
-
-## [4.2.6](https://github.com/QingWei-Li/docsify/compare/v4.2.4...v4.2.6) (2017-07-27)
-
-### Bug Fixes
-
-* **css:** hide the nav when the content has not yet been loaded ([1fa1619](https://github.com/QingWei-Li/docsify/commit/1fa1619))
-* **release:** release shell ([628e211](https://github.com/QingWei-Li/docsify/commit/628e211))
-
-<a name="4.2.4"></a>
-
-## [4.2.4](https://github.com/QingWei-Li/docsify/compare/v4.2.2...v4.2.4) (2017-07-26)
-
-### Bug Fixes
-
-* **render:** Remove getRootNode to be compatible with the lower version of Chrome, fixed [#225](https://github.com/QingWei-Li/docsify/issues/225) ([b8dd346](https://github.com/QingWei-Li/docsify/commit/b8dd346))
-
-<a name="4.2.3"></a>
-
-## [4.2.3](https://github.com/QingWei-Li/docsify/compare/v4.2.2...v4.2.3) (2017-07-26)
-
-### Features
-
-* **search:** Supports the max depth of the search headline, fixed [#223](https://github.com/QingWei-Li/docsify/issues/223), resolve [#129](https://github.com/QingWei-Li/docsify/issues/129) ([b7b589b](https://github.com/QingWei-Li/docsify/commit/b7b589b))
-
-<a name="4.2.2"></a>
-
-## [4.2.2](https://github.com/QingWei-Li/docsify/compare/v4.2.1...v4.2.2) (2017-07-24)
-
-### Bug Fixes
-
-* style rerender due to setting themeColor ([17ff3d1](https://github.com/QingWei-Li/docsify/commit/17ff3d1))
-
-<a name="4.2.1"></a>
-
-## [4.2.1](https://github.com/QingWei-Li/docsify/compare/v4.2.0...v4.2.1) (2017-07-19)
-
-* give the navbar some line-height (#216)
-* Remove unnecessary moduleName option from rollup config for plugins (#209)
-
-<a name="4.2.0"></a>
-
-# [4.2.0](https://github.com/QingWei-Li/docsify/compare/v4.1.14...v4.2.0) (2017-07-10)
-
-### Bug Fixes
-
-* not found page ([9af8559](https://github.com/QingWei-Li/docsify/commit/9af8559))
-
-### Features
-
-* alias option supports regexp, resolve [#183](https://github.com/QingWei-Li/docsify/issues/183) ([c4aa22c](https://github.com/QingWei-Li/docsify/commit/c4aa22c))
-* ignore to compiled link, fixed [#203](https://github.com/QingWei-Li/docsify/issues/203) ([#204](https://github.com/QingWei-Li/docsify/issues/204)) ([2e00f4c](https://github.com/QingWei-Li/docsify/commit/2e00f4c))
-
-<a name="4.1.14"></a>
-
-## [4.1.14](https://github.com/QingWei-Li/docsify/compare/v4.1.13...v4.1.14) (2017-06-24)
-
-### Bug Fixes
-
-* get file path, fixed jrappen/sublime-distractionless/commit/81bfadd391428823191cc03eca956a2312e04d13#commitcomment-22427070 ([e8117e5](https://github.com/QingWei-Li/docsify/commit/e8117e5)), closes [jrappen/sublime-distractionless/commit/81bfadd391428823191cc03eca956a2312e04d13#commitcomment-22427070](https://github.com/jrappen/sublime-distractionless/commit/81bfadd391428823191cc03eca956a2312e04d13/issues/commitcomment-22427070)
-
-### Features
-
-* add context attribute, fixed [#191](https://github.com/QingWei-Li/docsify/issues/191) ([ce0e9ac](https://github.com/QingWei-Li/docsify/commit/ce0e9ac))
-
-<a name="4.1.13"></a>
-
-## [4.1.13](https://github.com/QingWei-Li/docsify/compare/v4.1.12...v4.1.13) (2017-06-11)
-
-<a name="4.1.12"></a>
-
-## [4.1.12](https://github.com/QingWei-Li/docsify/compare/v4.1.11...v4.1.12) (2017-06-03)
-
-### Bug Fixes
-
-* **render:** subtitle in side bar shows undefined, fixed [#182](https://github.com/QingWei-Li/docsify/issues/182) ([d087d57](https://github.com/QingWei-Li/docsify/commit/d087d57))
-
-<a name="4.1.11"></a>
-
-## [4.1.11](https://github.com/QingWei-Li/docsify/compare/v4.1.10...v4.1.11) (2017-06-02)
-
-### Bug Fixes
-
-* **compiler:** force reset toc when rendering sidebar fixed [#181](https://github.com/QingWei-Li/docsify/issues/181) ([ccf4c7c](https://github.com/QingWei-Li/docsify/commit/ccf4c7c))
-* **render:** autoHeader does not work ([1304d2e](https://github.com/QingWei-Li/docsify/commit/1304d2e))
-
-<a name="4.1.10"></a>
-
-## [4.1.10](https://github.com/QingWei-Li/docsify/compare/v4.1.9...v4.1.10) (2017-06-02)
-
-### Bug Fixes
-
-* **hash:** hash routing crashes when url has querystring ([6d48ce1](https://github.com/QingWei-Li/docsify/commit/6d48ce1))
-
-<a name="4.1.9"></a>
-
-## [4.1.9](https://github.com/QingWei-Li/docsify/compare/v4.1.8...v4.1.9) (2017-05-31)
-
-### Bug Fixes
-
-* can't render toc on first load ([d9b487e](https://github.com/QingWei-Li/docsify/commit/d9b487e))
-* **lifecycle:** continue to handle data ([955d3d5](https://github.com/QingWei-Li/docsify/commit/955d3d5))
-* **render:** broken name link, fixed [#167](https://github.com/QingWei-Li/docsify/issues/167) ([91b66a5](https://github.com/QingWei-Li/docsify/commit/91b66a5))
-
-<a name="4.1.8"></a>
-
-## [4.1.8](https://github.com/QingWei-Li/docsify/compare/v4.1.7...v4.1.8) (2017-05-31)
-
-### Bug Fixes
-
-* auto replace version ([22b50f0](https://github.com/QingWei-Li/docsify/commit/22b50f0))
-* update edit button demo ([ec887c1](https://github.com/QingWei-Li/docsify/commit/ec887c1))
-
-### Features
-
-* add edit button demo ([a64cee1](https://github.com/QingWei-Li/docsify/commit/a64cee1))
-* add edit button demo, close [#162](https://github.com/QingWei-Li/docsify/issues/162) ([036fdac](https://github.com/QingWei-Li/docsify/commit/036fdac))
-
-<a name="4.1.7"></a>
-
-## [4.1.7](https://github.com/QingWei-Li/docsify/compare/v4.1.6...v4.1.7) (2017-05-30)
-
-### Bug Fixes
-
-* **ssr:** clean files ([0014895](https://github.com/QingWei-Li/docsify/commit/0014895))
-
-<a name="4.1.6"></a>
-
-## [4.1.6](https://github.com/QingWei-Li/docsify/compare/v4.1.5...v4.1.6) (2017-05-30)
-
-### Bug Fixes
-
-* **ssr:** add debug ([6b9e092](https://github.com/QingWei-Li/docsify/commit/6b9e092))
-
-<a name="4.1.5"></a>
-
-## [4.1.5](https://github.com/QingWei-Li/docsify/compare/v4.1.4...v4.1.5) (2017-05-30)
-
-### Bug Fixes
-
-* **ssr:** missing package ([6db8c9e](https://github.com/QingWei-Li/docsify/commit/6db8c9e))
-
-<a name="4.1.4"></a>
-
-## [4.1.4](https://github.com/QingWei-Li/docsify/compare/v4.1.3...v4.1.4) (2017-05-30)
-
-### Bug Fixes
-
-* **ssr:** file path ([79a83bc](https://github.com/QingWei-Li/docsify/commit/79a83bc))
-
-<a name="4.1.3"></a>
-
-## [4.1.3](https://github.com/QingWei-Li/docsify/compare/v4.1.2...v4.1.3) (2017-05-30)
-
-### Bug Fixes
-
-* update babel config ([9825db4](https://github.com/QingWei-Li/docsify/commit/9825db4))
-
-<a name="4.1.2"></a>
-
-## [4.1.2](https://github.com/QingWei-Li/docsify/compare/v4.1.1...v4.1.2) (2017-05-30)
-
-### Bug Fixes
-
-* update babel config ([80dba19](https://github.com/QingWei-Li/docsify/commit/80dba19))
-
-<a name="4.1.1"></a>
-
-## [4.1.1](https://github.com/QingWei-Li/docsify/compare/v4.1.0...v4.1.1) (2017-05-30)
-
-### Bug Fixes
-
-* build for ssr package ([4cb20a5](https://github.com/QingWei-Li/docsify/commit/4cb20a5))
-* remove history mode ([0e74e6c](https://github.com/QingWei-Li/docsify/commit/0e74e6c))
-
-<a name="4.1.0"></a>
-
-# [4.1.0](https://github.com/QingWei-Li/docsify/compare/v4.0.2...v4.1.0) (2017-05-30)
-
-<a name="4.0.2"></a>
-
-## [4.0.2](https://github.com/QingWei-Li/docsify/compare/v4.0.1...v4.0.2) (2017-05-30)
-
-### Bug Fixes
-
-* basePath for history mode ([fc1cd3f](https://github.com/QingWei-Li/docsify/commit/fc1cd3f))
-
-<a name="4.0.1"></a>
-
-## [4.0.1](https://github.com/QingWei-Li/docsify/compare/v4.0.0...v4.0.1) (2017-05-29)
-
-### Bug Fixes
-
-* **ssr:** remove context ([4626157](https://github.com/QingWei-Li/docsify/commit/4626157))
-* lint ([b764b6e](https://github.com/QingWei-Li/docsify/commit/b764b6e))
-
-<a name="4.0.0"></a>
-
-# [4.0.0](https://github.com/QingWei-Li/docsify/compare/v3.7.3...v4.0.0) (2017-05-29)
-
-### Bug Fixes
-
-* **render:** init event in ssr ([eba1c98](https://github.com/QingWei-Li/docsify/commit/eba1c98))
-* lint ([1f4514d](https://github.com/QingWei-Li/docsify/commit/1f4514d))
-
-### Features
-
-* finish ssr ([3444884](https://github.com/QingWei-Li/docsify/commit/3444884))
-* init ocsify-server-renderer ([6dea685](https://github.com/QingWei-Li/docsify/commit/6dea685))
-* support history mode ([f095eb8](https://github.com/QingWei-Li/docsify/commit/f095eb8))
