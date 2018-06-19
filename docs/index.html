@@ -7,12 +7,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-</head>
+
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
+      routerMode: 'history',
       search: 'auto', // default
       name: 'PythonTo',
       repo: 'matheweb/pythonto',
@@ -23,11 +23,25 @@
       formatUpdated: function(time) {
       // ...
         return time;
+      },
+      themeable: {
+        readyTransition : true, // default
+        responsiveTables: true  // default
       }
       //mergeNavbar: //merges navbar to smaller screens
       //coverpage: true //Loads everything from the _coverpage.md to a coverpage
     }
   </script>
+
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- Theme: Simple -->
+  <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css">
+  <!-- docsify-themeable -->
+  <script src="https://unpkg.com/docsify-themeable"></script>
+
+  <!-- Theme: Default -->
+  <!-- <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css"> -->
+
+</head>
 </body>
 </html>
