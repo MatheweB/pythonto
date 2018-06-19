@@ -2,44 +2,51 @@
 <html lang="en">
 <head>
   <link rel="icon" href="./media/favicon.png">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/buble.css">
   <meta charset="UTF-8">
   <title>PythonTo</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="PythonTo" content="Python to <insert language here>">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      search: 'auto', // default
       name: 'PythonTo',
-      repo: 'matheweb/pythonto',
       loadSidebar: true,
       subMaxLevel: 2,
       loadNavbar: true,
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
-      formatUpdated: function(time) {
-      // ...
-        return time;
-      },
-      themeable: {
-        readyTransition : true, // default
-        responsiveTables: true  // default
-      }
+
+      formatUpdated: '{MM}/{DD}/{YYYY} {HH}:{mm}',
+      // complete configuration parameters
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: 'auto', // or 'auto'
+        placeholder: 'Type to search',
+        noData: 'No Results!'
       //mergeNavbar: //merges navbar to smaller screens
       //coverpage: true //Loads everything from the _coverpage.md to a coverpage
-    }
+    },
+
+    plugins: [
+      function(hook, vm) {
+        hook.beforeEach(function (html) {
+          var url = 'https://github.com/matheweb/pythonto/blob/master/docs' + vm.router.getFile()
+          var editHtml = '[Contribute on Github](' + url + ')\n'
+
+      return html
+        + '\n----\n'
+        + 'Last modified {docsify-updated} '
+        + editHtml
+        })
+      }
+    ]
+
+  }
   </script>
-
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <!-- Theme: Simple -->
-  <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css">
-  <!-- docsify-themeable -->
-  <script src="https://unpkg.com/docsify-themeable"></script>
-
-  <!-- Theme: Default -->
-  <!-- <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css"> -->
 
 </head>
 </body>
