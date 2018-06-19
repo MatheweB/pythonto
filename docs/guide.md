@@ -1,10 +1,6 @@
-# Guide
-
-## Help 
-
-Updated on: {docsify-updated}
-
 # Themes
+
+
 
 There are currently three themes available. Copy [Vue](//vuejs.org) and [buble](//buble.surge.sh) website custom theme and [@liril-net](https://github.com/liril-net) contribution to the theme of the black style.
 
@@ -27,3 +23,5 @@ There are currently three themes available. Copy [Vue](//vuejs.org) and [buble](
 ```
 
 If you have any ideas or would like to develop a new theme, you are welcome to submit a [pull request](https://github.com/QingWei-Li/docsify/pulls).
+
+Updated on: {docsify-updated}
